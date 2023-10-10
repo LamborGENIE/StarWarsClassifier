@@ -1,0 +1,1001 @@
+timestamp,unit_id,unit_type,empire_or_resistance,location_x,location_y,destination_x,destination_y,homeworld
+2023-10-10 10:11:57,1,resistance_soldier,resistance,7,1,9,6,Tholoth
+2023-10-10 10:11:56,2,resistance_soldier,empire,9,1,3,2,Alderaan
+2023-10-10 10:11:55,3,at-at,resistance,4,8,1,7,Concord Dawn
+2023-10-10 10:11:54,4,x-wing,empire,5,10,4,6,Haruun Kal
+2023-10-10 10:11:53,5,tie_fighter,resistance,3,3,10,3,Alderaan
+2023-10-10 10:11:52,6,stormtrooper,resistance,3,5,3,3,Stewjon
+2023-10-10 10:11:51,7,stormtrooper,empire,4,1,10,7,Troiken
+2023-10-10 10:11:50,8,unknown,empire,3,7,9,7,Skako
+2023-10-10 10:11:49,9,x-wing,empire,3,5,5,4,Ojom
+2023-10-10 10:11:48,10,tie_fighter,empire,9,2,1,2,Alderaan
+2023-10-10 10:11:47,11,tie_fighter,resistance,9,5,8,5,Quermia
+2023-10-10 10:11:46,12,stormtrooper,resistance,5,10,9,10,Iridonia
+2023-10-10 10:11:45,13,resistance_soldier,resistance,9,2,2,8,Ojom
+2023-10-10 10:11:44,14,at-at,empire,2,1,5,7,Toydaria
+2023-10-10 10:11:43,15,unknown,empire,2,5,6,8,Tatooine
+2023-10-10 10:11:42,16,stormtrooper,empire,8,1,7,4,Mirial
+2023-10-10 10:11:41,17,tie_silencer,empire,2,4,9,7,Haruun Kal
+2023-10-10 10:11:40,18,stormtrooper,empire,10,4,4,3,Glee Anselm
+2023-10-10 10:11:39,19,at-at,resistance,3,3,7,8,Trandosha
+2023-10-10 10:11:38,20,at-at,empire,8,7,9,8,Vulpter
+2023-10-10 10:11:37,21,stormtrooper,resistance,8,9,6,10,Tund
+2023-10-10 10:11:36,22,tie_fighter,resistance,7,8,5,1,Eriadu
+2023-10-10 10:11:35,23,at-st,empire,10,3,7,4,Umbara
+2023-10-10 10:11:34,24,unknown,resistance,5,6,6,10,Serenno
+2023-10-10 10:11:33,25,unknown,empire,10,3,2,6,Concord Dawn
+2023-10-10 10:11:32,26,stormtrooper,resistance,7,2,9,9,Iridonia
+2023-10-10 10:11:31,27,resistance_soldier,empire,1,8,2,7,Kashyyyk
+2023-10-10 10:11:30,28,at-st,resistance,3,1,1,4,Dagobah
+2023-10-10 10:11:29,29,stormtrooper,empire,9,5,6,4,Cerea
+2023-10-10 10:11:28,30,at-st,resistance,9,2,1,4,Troiken
+2023-10-10 10:11:27,31,resistance_soldier,resistance,3,1,4,5,Champala
+2023-10-10 10:11:26,32,tie_fighter,empire,5,6,10,2,Ryloth
+2023-10-10 10:11:25,33,at-at,empire,9,8,3,5,Shili
+2023-10-10 10:11:24,34,at-st,empire,10,5,6,8,Naboo
+2023-10-10 10:11:23,35,at-st,resistance,4,2,1,4,Zolan
+2023-10-10 10:11:22,36,tie_fighter,empire,5,3,3,2,Tund
+2023-10-10 10:11:21,37,x-wing,resistance,8,5,3,6,Tholoth
+2023-10-10 10:11:20,38,unknown,resistance,7,4,4,3,Cerea
+2023-10-10 10:11:19,39,resistance_soldier,empire,5,5,5,8,Tund
+2023-10-10 10:11:18,40,tie_silencer,resistance,4,5,9,9,Tund
+2023-10-10 10:11:17,41,tie_silencer,resistance,4,2,6,1,Tholoth
+2023-10-10 10:11:16,42,stormtrooper,resistance,3,4,6,10,Chandrila
+2023-10-10 10:11:15,43,stormtrooper,empire,9,9,1,3,Kashyyyk
+2023-10-10 10:11:14,44,x-wing,resistance,6,5,5,9,Iktotch
+2023-10-10 10:11:13,45,tie_silencer,empire,9,1,6,6,Trandosha
+2023-10-10 10:11:12,46,unknown,empire,9,8,8,1,Chandrila
+2023-10-10 10:11:11,47,unknown,resistance,6,8,7,1,Skako
+2023-10-10 10:11:10,48,unknown,empire,6,5,9,9,Iktotch
+2023-10-10 10:11:09,49,unknown,empire,9,4,10,5,Rodia
+2023-10-10 10:11:08,50,tie_silencer,resistance,5,1,3,4,Naboo
+2023-10-10 10:11:07,51,x-wing,empire,7,5,7,1,Naboo
+2023-10-10 10:11:06,52,at-at,resistance,9,8,5,3,Glee Anselm
+2023-10-10 10:11:05,53,x-wing,resistance,7,9,1,1,Bestine IV
+2023-10-10 10:11:04,54,unknown,empire,9,6,3,10,Tatooine
+2023-10-10 10:11:03,55,stormtrooper,resistance,4,9,9,2,Dorin
+2023-10-10 10:11:02,56,x-wing,resistance,8,10,4,10,Stewjon
+2023-10-10 10:11:01,57,unknown,empire,6,10,6,5,Skako
+2023-10-10 10:11:00,58,stormtrooper,resistance,6,8,10,1,Mon Cala
+2023-10-10 10:10:59,59,at-st,empire,4,3,1,8,Skako
+2023-10-10 10:10:58,60,tie_silencer,resistance,9,9,10,10,Tund
+2023-10-10 10:10:57,61,tie_silencer,empire,10,6,7,10,Mon Cala
+2023-10-10 10:10:56,62,resistance_soldier,empire,7,8,10,6,Umbara
+2023-10-10 10:10:55,63,tie_silencer,resistance,1,3,4,8,Champala
+2023-10-10 10:10:54,64,resistance_soldier,resistance,5,6,4,5,Mirial
+2023-10-10 10:10:53,65,unknown,resistance,6,5,9,6,Sullust
+2023-10-10 10:10:52,66,at-at,empire,9,4,2,10,Troiken
+2023-10-10 10:10:51,67,at-st,resistance,2,8,9,8,Troiken
+2023-10-10 10:10:50,68,at-st,empire,8,4,3,9,Kashyyyk
+2023-10-10 10:10:49,69,at-st,resistance,7,1,8,4,Alderaan
+2023-10-10 10:10:48,70,resistance_soldier,empire,7,1,4,1,Iktotch
+2023-10-10 10:10:47,71,x-wing,resistance,4,7,1,2,Concord Dawn
+2023-10-10 10:10:46,72,stormtrooper,resistance,1,1,9,10,Iktotch
+2023-10-10 10:10:45,73,stormtrooper,resistance,9,10,3,2,Socorro
+2023-10-10 10:10:44,74,at-st,empire,5,2,4,1,Troiken
+2023-10-10 10:10:43,75,resistance_soldier,resistance,5,8,5,1,Tund
+2023-10-10 10:10:42,76,resistance_soldier,empire,6,9,5,2,Concord Dawn
+2023-10-10 10:10:41,77,stormtrooper,resistance,6,5,5,3,Skako
+2023-10-10 10:10:40,78,tie_silencer,resistance,6,6,1,3,Kashyyyk
+2023-10-10 10:10:39,79,tie_silencer,resistance,4,4,7,2,Tund
+2023-10-10 10:10:38,80,tie_fighter,empire,7,4,7,5,Umbara
+2023-10-10 10:10:37,81,at-st,empire,2,8,8,9,Iktotch
+2023-10-10 10:10:36,82,unknown,resistance,7,2,6,10,Tholoth
+2023-10-10 10:10:35,83,tie_fighter,empire,4,7,3,6,Ryloth
+2023-10-10 10:10:34,84,tie_fighter,empire,9,2,2,3,Tholoth
+2023-10-10 10:10:33,85,tie_silencer,empire,4,3,7,7,Dorin
+2023-10-10 10:10:32,86,tie_fighter,empire,4,8,5,10,Tholoth
+2023-10-10 10:10:31,87,at-at,empire,2,6,6,8,Corellia
+2023-10-10 10:10:30,88,stormtrooper,resistance,9,3,7,3,Dathomir
+2023-10-10 10:10:29,89,tie_fighter,resistance,6,9,9,6,Glee Anselm
+2023-10-10 10:10:28,90,tie_fighter,resistance,3,7,3,6,Umbara
+2023-10-10 10:10:27,91,x-wing,resistance,5,8,5,1,Bestine IV
+2023-10-10 10:10:26,92,stormtrooper,empire,3,1,5,5,Dathomir
+2023-10-10 10:10:25,93,at-at,empire,1,6,3,2,Kashyyyk
+2023-10-10 10:10:24,94,stormtrooper,resistance,1,1,9,10,Dagobah
+2023-10-10 10:10:23,95,resistance_soldier,empire,5,10,3,7,Serenno
+2023-10-10 10:10:22,96,resistance_soldier,empire,4,10,10,1,Ojom
+2023-10-10 10:10:21,97,stormtrooper,empire,8,4,9,8,Trandosha
+2023-10-10 10:10:20,98,x-wing,empire,8,1,3,1,Serenno
+2023-10-10 10:10:19,99,tie_silencer,resistance,10,4,9,7,Rodia
+2023-10-10 10:10:18,100,stormtrooper,empire,5,10,5,8,Sullust
+2023-10-10 10:10:17,101,unknown,empire,1,9,8,8,Concord Dawn
+2023-10-10 10:10:16,102,tie_fighter,resistance,7,2,6,7,Malastare
+2023-10-10 10:10:15,103,unknown,empire,7,9,8,10,Stewjon
+2023-10-10 10:10:14,104,tie_silencer,resistance,6,2,2,3,Muunilinst
+2023-10-10 10:10:13,105,at-st,empire,5,1,3,9,Mon Cala
+2023-10-10 10:10:12,106,x-wing,resistance,8,2,3,5,Serenno
+2023-10-10 10:10:11,107,x-wing,empire,2,10,9,6,Mirial
+2023-10-10 10:10:10,108,tie_silencer,resistance,10,6,1,9,Rodia
+2023-10-10 10:10:09,109,resistance_soldier,resistance,5,10,10,4,Socorro
+2023-10-10 10:10:08,110,at-st,resistance,9,10,5,2,Vulpter
+2023-10-10 10:10:07,111,stormtrooper,resistance,4,7,2,7,Iridonia
+2023-10-10 10:10:06,112,at-st,resistance,9,7,10,8,Alderaan
+2023-10-10 10:10:05,113,stormtrooper,resistance,7,1,5,8,Ojom
+2023-10-10 10:10:04,114,unknown,empire,7,7,7,6,Toydaria
+2023-10-10 10:10:03,115,at-st,empire,10,9,8,2,Eriadu
+2023-10-10 10:10:02,116,x-wing,empire,5,6,6,4,Alderaan
+2023-10-10 10:10:01,117,tie_silencer,resistance,9,4,10,6,Ryloth
+2023-10-10 10:10:00,118,at-st,empire,5,5,7,3,Dorin
+2023-10-10 10:09:59,119,tie_fighter,resistance,6,4,10,6,Ryloth
+2023-10-10 10:09:58,120,x-wing,empire,7,4,4,1,Ryloth
+2023-10-10 10:09:57,121,at-at,empire,2,2,7,6,Sullust
+2023-10-10 10:09:56,122,tie_silencer,empire,8,8,5,6,Zolan
+2023-10-10 10:09:55,123,at-at,resistance,8,5,10,3,Eriadu
+2023-10-10 10:09:54,124,at-at,resistance,3,8,9,5,Mirial
+2023-10-10 10:09:53,125,x-wing,resistance,1,4,5,1,Dorin
+2023-10-10 10:09:52,126,at-st,empire,10,8,7,8,Muunilinst
+2023-10-10 10:09:51,127,resistance_soldier,resistance,4,3,9,2,Ryloth
+2023-10-10 10:09:50,128,resistance_soldier,empire,8,3,2,6,Tholoth
+2023-10-10 10:09:49,129,resistance_soldier,empire,9,2,1,4,Naboo
+2023-10-10 10:09:48,130,stormtrooper,resistance,7,2,1,5,Eriadu
+2023-10-10 10:09:47,131,resistance_soldier,resistance,7,5,5,3,Trandosha
+2023-10-10 10:09:46,132,tie_fighter,empire,6,8,3,8,Iktotch
+2023-10-10 10:09:45,133,x-wing,resistance,7,3,5,3,Shili
+2023-10-10 10:09:44,134,stormtrooper,empire,5,4,3,9,Kalee
+2023-10-10 10:09:43,135,unknown,empire,7,9,1,5,Tholoth
+2023-10-10 10:09:42,136,x-wing,empire,8,6,8,8,Trandosha
+2023-10-10 10:09:41,137,tie_silencer,resistance,8,5,2,4,Concord Dawn
+2023-10-10 10:09:40,138,at-st,resistance,4,7,7,6,Serenno
+2023-10-10 10:09:39,139,unknown,resistance,4,3,3,1,Corellia
+2023-10-10 10:09:38,140,tie_fighter,empire,1,3,1,8,Rodia
+2023-10-10 10:09:37,141,stormtrooper,empire,2,10,2,7,Tund
+2023-10-10 10:09:36,142,stormtrooper,empire,2,3,5,10,Malastare
+2023-10-10 10:09:35,143,x-wing,resistance,2,4,5,10,Tholoth
+2023-10-10 10:09:34,144,tie_fighter,empire,7,2,8,6,Vulpter
+2023-10-10 10:09:33,145,tie_silencer,resistance,9,8,2,8,Sullust
+2023-10-10 10:09:32,146,at-st,empire,10,6,9,7,Glee Anselm
+2023-10-10 10:09:31,147,resistance_soldier,empire,1,9,3,1,Kalee
+2023-10-10 10:09:30,148,resistance_soldier,empire,10,9,5,1,Trandosha
+2023-10-10 10:09:29,149,resistance_soldier,resistance,7,2,7,7,Toydaria
+2023-10-10 10:09:28,150,tie_fighter,resistance,6,6,9,10,Dorin
+2023-10-10 10:09:27,151,stormtrooper,empire,3,3,1,9,Stewjon
+2023-10-10 10:09:26,152,tie_silencer,empire,4,7,10,8,Tatooine
+2023-10-10 10:09:25,153,stormtrooper,empire,4,3,2,4,Shili
+2023-10-10 10:09:24,154,tie_fighter,empire,5,2,2,5,Quermia
+2023-10-10 10:09:23,155,tie_fighter,empire,1,7,8,1,Ryloth
+2023-10-10 10:09:22,156,tie_fighter,resistance,5,2,2,3,Malastare
+2023-10-10 10:09:21,157,at-at,empire,4,1,2,6,Rodia
+2023-10-10 10:09:20,158,resistance_soldier,resistance,9,5,3,4,Kashyyyk
+2023-10-10 10:09:19,159,stormtrooper,empire,2,2,7,5,Tatooine
+2023-10-10 10:09:18,160,tie_silencer,empire,5,4,6,2,Mon Cala
+2023-10-10 10:09:17,161,at-at,resistance,1,4,10,5,Kalee
+2023-10-10 10:09:16,162,x-wing,resistance,1,4,9,3,Malastare
+2023-10-10 10:09:15,163,stormtrooper,resistance,5,3,6,5,Tholoth
+2023-10-10 10:09:14,164,at-at,resistance,8,3,2,2,Mon Cala
+2023-10-10 10:09:13,165,tie_silencer,empire,10,6,4,2,Stewjon
+2023-10-10 10:09:12,166,at-st,resistance,10,2,2,10,Malastare
+2023-10-10 10:09:11,167,unknown,empire,9,1,2,6,Bestine IV
+2023-10-10 10:09:10,168,tie_fighter,resistance,9,2,5,10,Sullust
+2023-10-10 10:09:09,169,x-wing,empire,4,7,9,6,Aleen Minor
+2023-10-10 10:09:08,170,at-st,empire,1,4,2,1,Dorin
+2023-10-10 10:09:07,171,tie_fighter,empire,8,2,9,7,Haruun Kal
+2023-10-10 10:09:06,172,resistance_soldier,empire,9,2,5,4,Ojom
+2023-10-10 10:09:05,173,resistance_soldier,resistance,7,2,3,2,Kashyyyk
+2023-10-10 10:09:04,174,unknown,empire,6,4,3,3,Haruun Kal
+2023-10-10 10:09:03,175,x-wing,resistance,1,6,3,4,Stewjon
+2023-10-10 10:09:02,176,unknown,empire,10,7,4,4,Concord Dawn
+2023-10-10 10:09:01,177,unknown,resistance,4,5,9,10,Dorin
+2023-10-10 10:09:00,178,x-wing,resistance,10,2,1,6,Bestine IV
+2023-10-10 10:08:59,179,x-wing,empire,10,1,6,5,Malastare
+2023-10-10 10:08:58,180,x-wing,resistance,8,4,8,9,Cerea
+2023-10-10 10:08:57,181,tie_fighter,empire,8,4,1,10,Sullust
+2023-10-10 10:08:56,182,stormtrooper,resistance,1,1,9,9,Ojom
+2023-10-10 10:08:55,183,stormtrooper,empire,4,3,5,1,Zolan
+2023-10-10 10:08:54,184,tie_silencer,resistance,3,5,1,4,Dorin
+2023-10-10 10:08:53,185,at-st,resistance,9,5,1,9,Zolan
+2023-10-10 10:08:52,186,x-wing,resistance,4,5,9,3,Rodia
+2023-10-10 10:08:51,187,x-wing,empire,4,8,8,2,Toydaria
+2023-10-10 10:08:50,188,unknown,empire,2,3,3,8,Dathomir
+2023-10-10 10:08:49,189,tie_silencer,empire,9,9,10,1,Iktotch
+2023-10-10 10:08:48,190,tie_fighter,empire,2,2,3,6,Mon Cala
+2023-10-10 10:08:47,191,x-wing,empire,9,2,5,7,Stewjon
+2023-10-10 10:08:46,192,tie_fighter,resistance,2,7,8,4,Dorin
+2023-10-10 10:08:45,193,tie_silencer,empire,7,2,8,10,Bestine IV
+2023-10-10 10:08:44,194,at-at,empire,7,9,7,6,Shili
+2023-10-10 10:08:43,195,resistance_soldier,resistance,6,2,8,8,Cerea
+2023-10-10 10:08:42,196,at-st,empire,8,2,6,8,Haruun Kal
+2023-10-10 10:08:41,197,tie_fighter,empire,5,6,8,8,Ryloth
+2023-10-10 10:08:40,198,at-st,empire,9,6,2,7,Kashyyyk
+2023-10-10 10:08:39,199,resistance_soldier,empire,3,4,6,8,Mirial
+2023-10-10 10:08:38,200,unknown,empire,7,1,6,5,Glee Anselm
+2023-10-10 10:08:37,201,tie_silencer,empire,6,4,10,9,Malastare
+2023-10-10 10:08:36,202,x-wing,resistance,7,7,1,3,Sullust
+2023-10-10 10:08:35,203,at-at,resistance,7,5,7,7,Shili
+2023-10-10 10:08:34,204,unknown,resistance,10,8,9,3,Dagobah
+2023-10-10 10:08:33,205,tie_silencer,empire,2,3,2,3,Bestine IV
+2023-10-10 10:08:32,206,resistance_soldier,empire,7,4,6,5,Iridonia
+2023-10-10 10:08:31,207,stormtrooper,empire,7,7,10,2,Sullust
+2023-10-10 10:08:30,208,tie_silencer,empire,8,8,4,2,Kalee
+2023-10-10 10:08:29,209,tie_fighter,empire,3,10,2,6,Socorro
+2023-10-10 10:08:28,210,resistance_soldier,empire,7,1,7,6,Concord Dawn
+2023-10-10 10:08:27,211,x-wing,resistance,10,6,8,5,Naboo
+2023-10-10 10:08:26,212,at-st,resistance,5,10,9,8,Tatooine
+2023-10-10 10:08:25,213,unknown,resistance,9,7,1,5,Dathomir
+2023-10-10 10:08:24,214,unknown,empire,7,1,3,2,Corellia
+2023-10-10 10:08:23,215,tie_silencer,empire,3,1,4,7,Glee Anselm
+2023-10-10 10:08:22,216,stormtrooper,resistance,8,3,2,3,Kashyyyk
+2023-10-10 10:08:21,217,at-at,empire,2,10,7,3,Kashyyyk
+2023-10-10 10:08:20,218,resistance_soldier,empire,2,7,4,6,Zolan
+2023-10-10 10:08:19,219,at-st,resistance,10,2,5,9,Trandosha
+2023-10-10 10:08:18,220,at-at,resistance,3,2,5,4,Quermia
+2023-10-10 10:08:17,221,tie_silencer,empire,4,6,10,3,Concord Dawn
+2023-10-10 10:08:16,222,at-st,resistance,10,9,5,9,Bestine IV
+2023-10-10 10:08:15,223,stormtrooper,empire,9,6,5,5,Ryloth
+2023-10-10 10:08:14,224,x-wing,resistance,7,1,4,1,Concord Dawn
+2023-10-10 10:08:13,225,tie_silencer,resistance,4,9,8,2,Malastare
+2023-10-10 10:08:12,226,resistance_soldier,empire,2,9,6,7,Dathomir
+2023-10-10 10:08:11,227,at-at,resistance,6,9,2,1,Dathomir
+2023-10-10 10:08:10,228,at-at,resistance,4,5,3,1,Aleen Minor
+2023-10-10 10:08:09,229,tie_silencer,empire,8,8,6,9,Ojom
+2023-10-10 10:08:08,230,at-at,resistance,8,10,2,5,Alderaan
+2023-10-10 10:08:07,231,at-st,empire,4,8,9,4,Mirial
+2023-10-10 10:08:06,232,x-wing,resistance,10,7,6,3,Tholoth
+2023-10-10 10:08:05,233,stormtrooper,resistance,4,2,7,7,Rodia
+2023-10-10 10:08:04,234,tie_silencer,empire,8,5,6,7,Rodia
+2023-10-10 10:08:03,235,tie_silencer,resistance,2,2,8,8,Rodia
+2023-10-10 10:08:02,236,tie_silencer,empire,6,10,4,2,Umbara
+2023-10-10 10:08:01,237,stormtrooper,resistance,2,5,2,9,Malastare
+2023-10-10 10:08:00,238,x-wing,empire,6,7,2,7,Sullust
+2023-10-10 10:07:59,239,tie_silencer,empire,8,6,8,2,Naboo
+2023-10-10 10:07:58,240,tie_fighter,empire,6,2,4,2,Umbara
+2023-10-10 10:07:57,241,at-at,empire,1,1,6,9,Sullust
+2023-10-10 10:07:56,242,x-wing,empire,7,10,10,1,Mon Cala
+2023-10-10 10:07:55,243,resistance_soldier,empire,6,8,9,8,Dorin
+2023-10-10 10:07:54,244,at-st,empire,4,5,8,2,Sullust
+2023-10-10 10:07:53,245,x-wing,resistance,5,2,4,3,Kalee
+2023-10-10 10:07:52,246,at-st,resistance,3,3,4,8,Aleen Minor
+2023-10-10 10:07:51,247,stormtrooper,resistance,8,6,9,6,Vulpter
+2023-10-10 10:07:50,248,tie_fighter,empire,6,1,2,7,Mirial
+2023-10-10 10:07:49,249,x-wing,resistance,4,1,8,10,Naboo
+2023-10-10 10:07:48,250,x-wing,resistance,1,3,3,6,Vulpter
+2023-10-10 10:07:47,251,tie_fighter,resistance,8,9,4,5,Tatooine
+2023-10-10 10:07:46,252,at-st,resistance,6,3,5,4,Champala
+2023-10-10 10:07:45,253,x-wing,empire,3,10,4,6,Iktotch
+2023-10-10 10:07:44,254,at-at,empire,2,7,6,2,Tund
+2023-10-10 10:07:43,255,unknown,resistance,5,7,7,2,Aleen Minor
+2023-10-10 10:07:42,256,tie_silencer,empire,2,9,3,5,Chandrila
+2023-10-10 10:07:41,257,stormtrooper,empire,1,5,5,3,Dagobah
+2023-10-10 10:07:40,258,resistance_soldier,empire,9,4,5,6,Haruun Kal
+2023-10-10 10:07:39,259,x-wing,resistance,1,1,5,3,Concord Dawn
+2023-10-10 10:07:38,260,stormtrooper,resistance,4,7,2,3,Concord Dawn
+2023-10-10 10:07:37,261,stormtrooper,resistance,8,7,2,2,Ojom
+2023-10-10 10:07:36,262,at-st,empire,7,7,2,6,Naboo
+2023-10-10 10:07:35,263,unknown,resistance,7,6,2,4,Ryloth
+2023-10-10 10:07:34,264,tie_silencer,resistance,6,9,2,8,Skako
+2023-10-10 10:07:33,265,tie_silencer,empire,8,6,6,3,Skako
+2023-10-10 10:07:32,266,unknown,resistance,2,4,7,9,Chandrila
+2023-10-10 10:07:31,267,unknown,resistance,7,10,6,6,Vulpter
+2023-10-10 10:07:30,268,x-wing,resistance,7,3,5,1,Tatooine
+2023-10-10 10:07:29,269,unknown,resistance,8,9,8,1,Tatooine
+2023-10-10 10:07:28,270,tie_fighter,resistance,1,10,10,6,Cerea
+2023-10-10 10:07:27,271,stormtrooper,resistance,7,10,2,8,Tund
+2023-10-10 10:07:26,272,tie_fighter,empire,7,7,4,5,Dorin
+2023-10-10 10:07:25,273,tie_silencer,resistance,4,1,10,3,Kalee
+2023-10-10 10:07:24,274,tie_fighter,resistance,10,4,2,10,Stewjon
+2023-10-10 10:07:23,275,tie_silencer,empire,10,1,9,10,Shili
+2023-10-10 10:07:22,276,resistance_soldier,empire,4,4,9,4,Zolan
+2023-10-10 10:07:21,277,resistance_soldier,empire,9,3,10,5,Shili
+2023-10-10 10:07:20,278,at-st,empire,1,4,7,2,Trandosha
+2023-10-10 10:07:19,279,tie_fighter,empire,6,3,2,6,Iridonia
+2023-10-10 10:07:18,280,at-st,empire,9,5,8,8,Toydaria
+2023-10-10 10:07:17,281,x-wing,empire,2,3,8,1,Toydaria
+2023-10-10 10:07:16,282,at-st,empire,8,1,8,6,Troiken
+2023-10-10 10:07:15,283,at-st,empire,7,6,5,3,Alderaan
+2023-10-10 10:07:14,284,at-at,empire,6,10,4,9,Corellia
+2023-10-10 10:07:13,285,unknown,resistance,9,1,4,3,Troiken
+2023-10-10 10:07:12,286,at-st,empire,5,2,3,1,Corellia
+2023-10-10 10:07:11,287,tie_silencer,resistance,9,7,10,4,Iridonia
+2023-10-10 10:07:10,288,at-st,resistance,7,4,1,4,Ojom
+2023-10-10 10:07:09,289,resistance_soldier,resistance,2,7,6,10,Skako
+2023-10-10 10:07:08,290,unknown,empire,9,2,8,10,Chandrila
+2023-10-10 10:07:07,291,at-at,resistance,4,7,5,5,Skako
+2023-10-10 10:07:06,292,unknown,empire,8,1,1,8,Bestine IV
+2023-10-10 10:07:05,293,at-at,resistance,8,6,6,1,Rodia
+2023-10-10 10:07:04,294,at-at,resistance,9,5,5,9,Vulpter
+2023-10-10 10:07:03,295,x-wing,empire,3,9,4,10,Sullust
+2023-10-10 10:07:02,296,tie_fighter,resistance,8,5,7,5,Champala
+2023-10-10 10:07:01,297,tie_silencer,resistance,4,3,3,4,Malastare
+2023-10-10 10:07:00,298,at-at,resistance,6,9,10,6,Alderaan
+2023-10-10 10:06:59,299,tie_silencer,resistance,2,5,4,2,Chandrila
+2023-10-10 10:06:58,300,resistance_soldier,empire,2,7,4,6,Muunilinst
+2023-10-10 10:06:57,301,unknown,empire,6,2,9,4,Muunilinst
+2023-10-10 10:06:56,302,tie_silencer,empire,1,9,9,6,Alderaan
+2023-10-10 10:06:55,303,at-st,resistance,8,8,8,7,Chandrila
+2023-10-10 10:06:54,304,unknown,empire,2,10,6,6,Tund
+2023-10-10 10:06:53,305,at-st,empire,9,2,7,8,Kashyyyk
+2023-10-10 10:06:52,306,at-st,empire,2,8,3,6,Bestine IV
+2023-10-10 10:06:51,307,unknown,resistance,9,9,10,8,Kalee
+2023-10-10 10:06:50,308,resistance_soldier,empire,6,9,2,6,Cerea
+2023-10-10 10:06:49,309,tie_silencer,empire,5,3,5,9,Dathomir
+2023-10-10 10:06:48,310,at-st,resistance,2,7,4,8,Aleen Minor
+2023-10-10 10:06:47,311,tie_silencer,resistance,6,1,9,2,Quermia
+2023-10-10 10:06:46,312,at-st,empire,7,4,1,6,Shili
+2023-10-10 10:06:45,313,resistance_soldier,resistance,7,6,4,8,Iridonia
+2023-10-10 10:06:44,314,unknown,empire,5,2,4,5,Skako
+2023-10-10 10:06:43,315,unknown,resistance,4,5,4,1,Mon Cala
+2023-10-10 10:06:42,316,tie_fighter,resistance,10,8,9,2,Umbara
+2023-10-10 10:06:41,317,x-wing,resistance,3,8,3,8,Dorin
+2023-10-10 10:06:40,318,x-wing,empire,2,5,8,8,Ojom
+2023-10-10 10:06:39,319,at-at,resistance,10,7,4,3,Mon Cala
+2023-10-10 10:06:38,320,tie_silencer,resistance,6,8,2,1,Corellia
+2023-10-10 10:06:37,321,tie_silencer,empire,2,2,1,9,Iridonia
+2023-10-10 10:06:36,322,stormtrooper,resistance,8,1,10,4,Glee Anselm
+2023-10-10 10:06:35,323,x-wing,empire,2,1,10,1,Sullust
+2023-10-10 10:06:34,324,at-st,empire,1,2,10,2,Ojom
+2023-10-10 10:06:33,325,tie_fighter,resistance,8,10,6,10,Mon Cala
+2023-10-10 10:06:32,326,stormtrooper,resistance,7,10,7,3,Kashyyyk
+2023-10-10 10:06:31,327,tie_fighter,empire,6,3,6,10,Muunilinst
+2023-10-10 10:06:30,328,unknown,empire,10,7,10,7,Dathomir
+2023-10-10 10:06:29,329,at-st,empire,5,9,5,10,Naboo
+2023-10-10 10:06:28,330,x-wing,resistance,5,3,7,6,Concord Dawn
+2023-10-10 10:06:27,331,at-st,resistance,7,4,9,6,Corellia
+2023-10-10 10:06:26,332,at-at,resistance,3,2,6,8,Dathomir
+2023-10-10 10:06:25,333,unknown,empire,2,4,9,8,Tund
+2023-10-10 10:06:24,334,unknown,empire,3,3,5,8,Eriadu
+2023-10-10 10:06:23,335,at-at,resistance,1,3,7,6,Mon Cala
+2023-10-10 10:06:22,336,at-at,empire,9,8,9,5,Serenno
+2023-10-10 10:06:21,337,at-at,empire,9,3,7,6,Glee Anselm
+2023-10-10 10:06:20,338,at-at,empire,5,3,10,2,Serenno
+2023-10-10 10:06:19,339,x-wing,empire,1,6,5,6,Bestine IV
+2023-10-10 10:06:18,340,tie_silencer,empire,7,6,9,1,Dagobah
+2023-10-10 10:06:17,341,x-wing,empire,8,5,5,10,Bestine IV
+2023-10-10 10:06:16,342,stormtrooper,resistance,4,2,10,10,Quermia
+2023-10-10 10:06:15,343,at-at,resistance,5,10,10,7,Tund
+2023-10-10 10:06:14,344,x-wing,empire,7,10,1,9,Iktotch
+2023-10-10 10:06:13,345,x-wing,empire,4,6,7,5,Naboo
+2023-10-10 10:06:12,346,at-at,empire,1,5,4,8,Malastare
+2023-10-10 10:06:11,347,stormtrooper,empire,2,1,3,5,Serenno
+2023-10-10 10:06:10,348,at-at,empire,9,7,1,8,Naboo
+2023-10-10 10:06:09,349,tie_silencer,resistance,10,4,9,6,Alderaan
+2023-10-10 10:06:08,350,x-wing,resistance,10,3,6,4,Eriadu
+2023-10-10 10:06:07,351,tie_fighter,empire,9,8,4,2,Tatooine
+2023-10-10 10:06:06,352,tie_silencer,resistance,5,7,5,1,Iktotch
+2023-10-10 10:06:05,353,x-wing,empire,2,7,2,9,Eriadu
+2023-10-10 10:06:04,354,stormtrooper,empire,2,1,3,6,Skako
+2023-10-10 10:06:03,355,resistance_soldier,resistance,3,5,8,1,Shili
+2023-10-10 10:06:02,356,x-wing,empire,3,6,3,9,Naboo
+2023-10-10 10:06:01,357,at-at,empire,1,2,7,6,Dagobah
+2023-10-10 10:06:00,358,unknown,resistance,6,9,9,10,Iridonia
+2023-10-10 10:05:59,359,at-at,empire,7,6,5,5,Shili
+2023-10-10 10:05:58,360,resistance_soldier,resistance,6,5,6,2,Umbara
+2023-10-10 10:05:57,361,tie_fighter,resistance,4,5,8,6,Tatooine
+2023-10-10 10:05:56,362,tie_fighter,empire,2,6,2,10,Zolan
+2023-10-10 10:05:55,363,x-wing,resistance,7,7,6,6,Mon Cala
+2023-10-10 10:05:54,364,stormtrooper,resistance,4,4,3,5,Malastare
+2023-10-10 10:05:53,365,at-st,empire,10,2,4,2,Glee Anselm
+2023-10-10 10:05:52,366,at-at,resistance,5,2,4,10,Quermia
+2023-10-10 10:05:51,367,tie_fighter,resistance,10,5,7,2,Muunilinst
+2023-10-10 10:05:50,368,resistance_soldier,empire,2,6,2,3,Chandrila
+2023-10-10 10:05:49,369,tie_fighter,resistance,8,1,10,5,Serenno
+2023-10-10 10:05:48,370,unknown,resistance,8,2,2,9,Rodia
+2023-10-10 10:05:47,371,stormtrooper,resistance,5,5,5,7,Sullust
+2023-10-10 10:05:46,372,unknown,empire,7,1,2,2,Trandosha
+2023-10-10 10:05:45,373,tie_silencer,empire,5,1,9,6,Malastare
+2023-10-10 10:05:44,374,at-at,resistance,1,8,6,1,Iktotch
+2023-10-10 10:05:43,375,stormtrooper,empire,4,6,10,4,Sullust
+2023-10-10 10:05:42,376,x-wing,resistance,5,8,2,5,Tholoth
+2023-10-10 10:05:41,377,tie_fighter,resistance,6,9,9,10,Cerea
+2023-10-10 10:05:40,378,unknown,empire,6,8,6,1,Naboo
+2023-10-10 10:05:39,379,tie_fighter,empire,6,7,8,4,Shili
+2023-10-10 10:05:38,380,tie_fighter,empire,2,3,5,8,Muunilinst
+2023-10-10 10:05:37,381,unknown,empire,4,5,3,2,Troiken
+2023-10-10 10:05:36,382,stormtrooper,resistance,8,9,2,4,Cerea
+2023-10-10 10:05:35,383,unknown,empire,4,3,3,9,Bestine IV
+2023-10-10 10:05:34,384,tie_silencer,empire,1,2,1,10,Dathomir
+2023-10-10 10:05:33,385,x-wing,resistance,6,5,3,9,Serenno
+2023-10-10 10:05:32,386,unknown,empire,3,8,1,10,Corellia
+2023-10-10 10:05:31,387,at-st,resistance,3,9,10,2,Mirial
+2023-10-10 10:05:30,388,tie_fighter,empire,10,3,2,6,Rodia
+2023-10-10 10:05:29,389,tie_fighter,empire,4,4,9,1,Concord Dawn
+2023-10-10 10:05:28,390,tie_fighter,resistance,2,10,2,6,Vulpter
+2023-10-10 10:05:27,391,tie_silencer,resistance,10,3,9,1,Kashyyyk
+2023-10-10 10:05:26,392,at-st,empire,6,10,5,1,Kalee
+2023-10-10 10:05:25,393,resistance_soldier,empire,7,9,5,6,Ryloth
+2023-10-10 10:05:24,394,tie_fighter,empire,7,9,8,1,Dorin
+2023-10-10 10:05:23,395,tie_fighter,empire,4,4,7,3,Socorro
+2023-10-10 10:05:22,396,x-wing,empire,3,3,9,9,Skako
+2023-10-10 10:05:21,397,stormtrooper,empire,3,1,6,6,Socorro
+2023-10-10 10:05:20,398,resistance_soldier,resistance,8,2,9,1,Glee Anselm
+2023-10-10 10:05:19,399,tie_fighter,resistance,1,8,3,4,Haruun Kal
+2023-10-10 10:05:18,400,at-at,empire,9,7,6,9,Socorro
+2023-10-10 10:05:17,401,resistance_soldier,empire,8,9,1,1,Shili
+2023-10-10 10:05:16,402,tie_fighter,empire,4,4,2,8,Rodia
+2023-10-10 10:05:15,403,tie_silencer,empire,4,5,7,5,Alderaan
+2023-10-10 10:05:14,404,at-st,resistance,5,9,3,1,Ojom
+2023-10-10 10:05:13,405,x-wing,resistance,5,4,8,7,Cerea
+2023-10-10 10:05:12,406,x-wing,resistance,2,3,5,3,Dorin
+2023-10-10 10:05:11,407,tie_fighter,empire,4,5,5,3,Mirial
+2023-10-10 10:05:10,408,x-wing,empire,6,3,6,2,Socorro
+2023-10-10 10:05:09,409,stormtrooper,empire,10,3,10,2,Toydaria
+2023-10-10 10:05:08,410,stormtrooper,empire,1,4,1,2,Sullust
+2023-10-10 10:05:07,411,at-st,resistance,7,3,4,2,Bestine IV
+2023-10-10 10:05:06,412,resistance_soldier,empire,1,3,2,7,Quermia
+2023-10-10 10:05:05,413,at-at,resistance,1,3,7,5,Troiken
+2023-10-10 10:05:04,414,resistance_soldier,empire,8,8,3,4,Quermia
+2023-10-10 10:05:03,415,stormtrooper,empire,9,1,2,4,Mirial
+2023-10-10 10:05:02,416,stormtrooper,resistance,7,1,3,1,Iridonia
+2023-10-10 10:05:01,417,tie_silencer,resistance,7,10,8,1,Chandrila
+2023-10-10 10:05:00,418,stormtrooper,empire,2,4,7,1,Serenno
+2023-10-10 10:04:59,419,at-st,resistance,5,6,9,2,Chandrila
+2023-10-10 10:04:58,420,tie_fighter,resistance,10,1,7,5,Concord Dawn
+2023-10-10 10:04:57,421,resistance_soldier,resistance,7,2,1,1,Toydaria
+2023-10-10 10:04:56,422,at-st,resistance,8,7,2,8,Tatooine
+2023-10-10 10:04:55,423,tie_silencer,resistance,9,9,8,6,Dathomir
+2023-10-10 10:04:54,424,at-st,resistance,10,10,1,10,Dagobah
+2023-10-10 10:04:53,425,stormtrooper,empire,4,8,1,4,Rodia
+2023-10-10 10:04:52,426,stormtrooper,empire,2,3,8,9,Dathomir
+2023-10-10 10:04:51,427,stormtrooper,resistance,4,9,6,2,Naboo
+2023-10-10 10:04:50,428,resistance_soldier,resistance,3,2,5,2,Trandosha
+2023-10-10 10:04:49,429,tie_silencer,resistance,5,7,3,9,Rodia
+2023-10-10 10:04:48,430,unknown,resistance,3,7,8,10,Dorin
+2023-10-10 10:04:47,431,x-wing,resistance,5,6,8,9,Dorin
+2023-10-10 10:04:46,432,tie_fighter,empire,10,10,10,10,Muunilinst
+2023-10-10 10:04:45,433,unknown,resistance,3,1,8,2,Tund
+2023-10-10 10:04:44,434,at-st,empire,10,8,3,10,Muunilinst
+2023-10-10 10:04:43,435,x-wing,resistance,8,1,7,3,Concord Dawn
+2023-10-10 10:04:42,436,tie_fighter,empire,5,4,6,9,Bestine IV
+2023-10-10 10:04:41,437,tie_fighter,resistance,9,4,5,9,Umbara
+2023-10-10 10:04:40,438,at-st,resistance,4,5,10,3,Naboo
+2023-10-10 10:04:39,439,resistance_soldier,resistance,2,5,7,10,Cerea
+2023-10-10 10:04:38,440,x-wing,empire,5,8,8,7,Naboo
+2023-10-10 10:04:37,441,at-st,resistance,4,6,5,10,Tholoth
+2023-10-10 10:04:36,442,tie_silencer,empire,6,1,8,8,Aleen Minor
+2023-10-10 10:04:35,443,x-wing,resistance,9,8,7,10,Trandosha
+2023-10-10 10:04:34,444,at-at,empire,3,2,2,3,Ojom
+2023-10-10 10:04:33,445,tie_silencer,resistance,9,4,7,8,Dorin
+2023-10-10 10:04:32,446,resistance_soldier,empire,5,2,2,3,Stewjon
+2023-10-10 10:04:31,447,tie_silencer,empire,2,1,7,5,Tholoth
+2023-10-10 10:04:30,448,at-st,empire,3,8,8,1,Shili
+2023-10-10 10:04:29,449,at-st,empire,7,7,1,7,Umbara
+2023-10-10 10:04:28,450,at-at,empire,8,8,3,1,Dorin
+2023-10-10 10:04:27,451,tie_silencer,empire,2,1,8,8,Sullust
+2023-10-10 10:04:26,452,x-wing,empire,6,6,5,2,Tund
+2023-10-10 10:04:25,453,resistance_soldier,empire,3,7,1,6,Corellia
+2023-10-10 10:04:24,454,x-wing,empire,10,8,3,8,Chandrila
+2023-10-10 10:04:23,455,at-at,resistance,2,1,8,4,Cerea
+2023-10-10 10:04:22,456,at-at,empire,7,6,8,4,Bestine IV
+2023-10-10 10:04:21,457,tie_silencer,resistance,10,1,5,7,Corellia
+2023-10-10 10:04:20,458,tie_silencer,empire,2,2,3,4,Muunilinst
+2023-10-10 10:04:19,459,unknown,resistance,1,2,10,8,Tund
+2023-10-10 10:04:18,460,x-wing,resistance,1,7,3,7,Socorro
+2023-10-10 10:04:17,461,tie_fighter,empire,1,2,5,2,Chandrila
+2023-10-10 10:04:16,462,x-wing,empire,8,2,10,1,Aleen Minor
+2023-10-10 10:04:15,463,tie_silencer,empire,10,1,1,5,Tatooine
+2023-10-10 10:04:14,464,resistance_soldier,empire,5,4,6,8,Malastare
+2023-10-10 10:04:13,465,at-at,empire,1,8,5,8,Glee Anselm
+2023-10-10 10:04:12,466,resistance_soldier,empire,10,1,4,3,Zolan
+2023-10-10 10:04:11,467,unknown,empire,10,2,10,6,Dathomir
+2023-10-10 10:04:10,468,tie_silencer,resistance,6,9,6,10,Cerea
+2023-10-10 10:04:09,469,at-at,resistance,5,4,2,3,Dorin
+2023-10-10 10:04:08,470,x-wing,empire,2,1,6,3,Ojom
+2023-10-10 10:04:07,471,resistance_soldier,empire,7,4,10,5,Cerea
+2023-10-10 10:04:06,472,stormtrooper,resistance,2,8,1,10,Umbara
+2023-10-10 10:04:05,473,stormtrooper,resistance,1,3,7,7,Tholoth
+2023-10-10 10:04:04,474,tie_fighter,resistance,5,10,9,9,Umbara
+2023-10-10 10:04:03,475,stormtrooper,empire,5,9,10,10,Tund
+2023-10-10 10:04:02,476,resistance_soldier,empire,7,9,8,6,Tatooine
+2023-10-10 10:04:01,477,tie_fighter,resistance,7,8,7,3,Tund
+2023-10-10 10:04:00,478,stormtrooper,resistance,7,1,4,9,Kashyyyk
+2023-10-10 10:03:59,479,at-st,resistance,5,2,10,8,Muunilinst
+2023-10-10 10:03:58,480,resistance_soldier,empire,4,10,10,8,Eriadu
+2023-10-10 10:03:57,481,unknown,empire,8,3,8,3,Skako
+2023-10-10 10:03:56,482,tie_silencer,resistance,3,3,6,4,Skako
+2023-10-10 10:03:55,483,unknown,resistance,7,10,2,6,Malastare
+2023-10-10 10:03:54,484,tie_silencer,resistance,2,8,6,7,Mirial
+2023-10-10 10:03:53,485,tie_fighter,empire,2,3,7,9,Vulpter
+2023-10-10 10:03:52,486,unknown,resistance,8,1,7,8,Concord Dawn
+2023-10-10 10:03:51,487,x-wing,empire,3,4,5,5,Toydaria
+2023-10-10 10:03:50,488,tie_fighter,empire,8,4,4,7,Quermia
+2023-10-10 10:03:49,489,resistance_soldier,empire,7,4,10,5,Socorro
+2023-10-10 10:03:48,490,at-st,resistance,5,6,9,5,Mirial
+2023-10-10 10:03:47,491,resistance_soldier,empire,2,1,2,2,Ojom
+2023-10-10 10:03:46,492,x-wing,empire,5,7,2,2,Concord Dawn
+2023-10-10 10:03:45,493,x-wing,empire,7,7,6,6,Cerea
+2023-10-10 10:03:44,494,at-at,empire,2,7,9,8,Vulpter
+2023-10-10 10:03:43,495,resistance_soldier,empire,7,1,7,10,Dorin
+2023-10-10 10:03:42,496,tie_fighter,resistance,10,1,8,10,Iridonia
+2023-10-10 10:03:41,497,stormtrooper,empire,10,2,10,1,Sullust
+2023-10-10 10:03:40,498,tie_fighter,empire,9,8,2,10,Naboo
+2023-10-10 10:03:39,499,x-wing,resistance,2,1,3,9,Corellia
+2023-10-10 10:03:38,500,at-st,empire,2,9,4,5,Mirial
+2023-10-10 10:03:37,501,resistance_soldier,empire,6,7,7,9,Iridonia
+2023-10-10 10:03:36,502,unknown,resistance,4,7,9,10,Cerea
+2023-10-10 10:03:35,503,unknown,empire,8,5,4,10,Concord Dawn
+2023-10-10 10:03:34,504,unknown,empire,3,4,1,1,Dathomir
+2023-10-10 10:03:33,505,tie_silencer,empire,8,2,10,3,Mirial
+2023-10-10 10:03:32,506,tie_fighter,resistance,10,4,7,8,Concord Dawn
+2023-10-10 10:03:31,507,resistance_soldier,resistance,4,1,10,4,Aleen Minor
+2023-10-10 10:03:30,508,at-st,resistance,10,10,4,9,Iridonia
+2023-10-10 10:03:29,509,unknown,resistance,1,3,1,2,Mirial
+2023-10-10 10:03:28,510,stormtrooper,empire,2,5,3,7,Ryloth
+2023-10-10 10:03:27,511,at-st,empire,4,2,1,7,Toydaria
+2023-10-10 10:03:26,512,tie_fighter,resistance,8,2,2,4,Toydaria
+2023-10-10 10:03:25,513,tie_fighter,resistance,8,5,8,6,Toydaria
+2023-10-10 10:03:24,514,at-at,empire,4,3,8,1,Cerea
+2023-10-10 10:03:23,515,at-st,resistance,1,3,9,4,Stewjon
+2023-10-10 10:03:22,516,at-at,empire,1,2,10,5,Ojom
+2023-10-10 10:03:21,517,stormtrooper,empire,3,5,6,6,Dorin
+2023-10-10 10:03:20,518,resistance_soldier,empire,5,4,6,4,Bestine IV
+2023-10-10 10:03:19,519,unknown,resistance,2,5,2,3,Bestine IV
+2023-10-10 10:03:18,520,unknown,resistance,9,7,5,6,Stewjon
+2023-10-10 10:03:17,521,at-at,resistance,10,5,7,7,Toydaria
+2023-10-10 10:03:16,522,unknown,resistance,6,10,4,9,Corellia
+2023-10-10 10:03:15,523,tie_silencer,empire,6,8,1,7,Quermia
+2023-10-10 10:03:14,524,tie_silencer,resistance,7,5,7,1,Umbara
+2023-10-10 10:03:13,525,tie_silencer,resistance,2,2,7,4,Ryloth
+2023-10-10 10:03:12,526,tie_silencer,empire,2,3,9,8,Mirial
+2023-10-10 10:03:11,527,stormtrooper,resistance,3,10,4,7,Eriadu
+2023-10-10 10:03:10,528,unknown,empire,2,9,7,6,Kalee
+2023-10-10 10:03:09,529,tie_fighter,empire,3,1,1,9,Malastare
+2023-10-10 10:03:08,530,tie_fighter,resistance,1,10,7,4,Vulpter
+2023-10-10 10:03:07,531,at-st,empire,6,6,7,5,Cerea
+2023-10-10 10:03:06,532,stormtrooper,resistance,8,4,2,1,Kalee
+2023-10-10 10:03:05,533,resistance_soldier,empire,10,4,3,8,Tund
+2023-10-10 10:03:04,534,at-at,empire,10,2,1,4,Champala
+2023-10-10 10:03:03,535,x-wing,empire,8,5,4,3,Mon Cala
+2023-10-10 10:03:02,536,resistance_soldier,empire,1,6,2,1,Naboo
+2023-10-10 10:03:01,537,tie_silencer,empire,8,3,3,3,Serenno
+2023-10-10 10:03:00,538,stormtrooper,resistance,6,1,6,8,Umbara
+2023-10-10 10:02:59,539,at-at,resistance,5,7,3,7,Concord Dawn
+2023-10-10 10:02:58,540,tie_silencer,resistance,10,9,2,7,Sullust
+2023-10-10 10:02:57,541,at-st,resistance,7,4,5,8,Naboo
+2023-10-10 10:02:56,542,stormtrooper,resistance,3,2,1,3,Iridonia
+2023-10-10 10:02:55,543,at-st,empire,8,7,2,1,Alderaan
+2023-10-10 10:02:54,544,at-at,empire,2,9,1,1,Naboo
+2023-10-10 10:02:53,545,tie_silencer,resistance,1,7,10,10,Umbara
+2023-10-10 10:02:52,546,tie_silencer,resistance,6,6,7,2,Troiken
+2023-10-10 10:02:51,547,tie_fighter,resistance,8,4,6,7,Troiken
+2023-10-10 10:02:50,548,tie_fighter,resistance,10,10,2,3,Cerea
+2023-10-10 10:02:49,549,resistance_soldier,resistance,6,1,2,10,Rodia
+2023-10-10 10:02:48,550,at-at,resistance,2,3,10,6,Iktotch
+2023-10-10 10:02:47,551,at-st,resistance,10,1,6,7,Aleen Minor
+2023-10-10 10:02:46,552,at-st,empire,4,7,5,5,Tholoth
+2023-10-10 10:02:45,553,unknown,resistance,3,9,1,3,Concord Dawn
+2023-10-10 10:02:44,554,tie_silencer,empire,4,2,7,8,Eriadu
+2023-10-10 10:02:43,555,at-st,resistance,9,7,9,4,Haruun Kal
+2023-10-10 10:02:42,556,at-at,resistance,5,6,10,4,Corellia
+2023-10-10 10:02:41,557,tie_fighter,resistance,2,8,3,10,Iridonia
+2023-10-10 10:02:40,558,tie_fighter,resistance,5,8,8,9,Dagobah
+2023-10-10 10:02:39,559,resistance_soldier,empire,6,4,5,1,Dagobah
+2023-10-10 10:02:38,560,resistance_soldier,resistance,6,10,3,1,Malastare
+2023-10-10 10:02:37,561,unknown,empire,6,5,7,10,Iridonia
+2023-10-10 10:02:36,562,resistance_soldier,empire,9,6,9,5,Quermia
+2023-10-10 10:02:35,563,stormtrooper,resistance,6,3,3,10,Serenno
+2023-10-10 10:02:34,564,x-wing,resistance,10,6,4,1,Concord Dawn
+2023-10-10 10:02:33,565,tie_silencer,resistance,3,4,6,7,Dathomir
+2023-10-10 10:02:32,566,unknown,resistance,4,4,2,4,Champala
+2023-10-10 10:02:31,567,stormtrooper,resistance,8,9,4,2,Champala
+2023-10-10 10:02:30,568,tie_silencer,resistance,5,3,4,6,Kalee
+2023-10-10 10:02:29,569,tie_silencer,resistance,7,5,4,9,Concord Dawn
+2023-10-10 10:02:28,570,at-st,resistance,5,9,5,6,Iktotch
+2023-10-10 10:02:27,571,stormtrooper,empire,6,8,8,1,Skako
+2023-10-10 10:02:26,572,x-wing,resistance,9,8,8,10,Zolan
+2023-10-10 10:02:25,573,tie_silencer,empire,10,7,5,3,Eriadu
+2023-10-10 10:02:24,574,x-wing,resistance,9,2,7,3,Corellia
+2023-10-10 10:02:23,575,tie_silencer,empire,3,6,7,7,Chandrila
+2023-10-10 10:02:22,576,unknown,empire,4,1,4,7,Stewjon
+2023-10-10 10:02:21,577,x-wing,empire,3,8,2,7,Tund
+2023-10-10 10:02:20,578,unknown,resistance,1,10,2,7,Aleen Minor
+2023-10-10 10:02:19,579,tie_silencer,resistance,2,6,4,8,Tatooine
+2023-10-10 10:02:18,580,at-st,resistance,6,8,1,8,Muunilinst
+2023-10-10 10:02:17,581,unknown,resistance,2,10,7,3,Dagobah
+2023-10-10 10:02:16,582,tie_fighter,empire,3,3,5,1,Shili
+2023-10-10 10:02:15,583,unknown,empire,9,6,9,8,Skako
+2023-10-10 10:02:14,584,stormtrooper,resistance,5,8,9,8,Kalee
+2023-10-10 10:02:13,585,tie_silencer,resistance,8,6,3,4,Trandosha
+2023-10-10 10:02:12,586,at-at,empire,5,4,2,6,Dagobah
+2023-10-10 10:02:11,587,resistance_soldier,empire,3,1,9,7,Alderaan
+2023-10-10 10:02:10,588,stormtrooper,empire,1,3,3,10,Haruun Kal
+2023-10-10 10:02:09,589,tie_silencer,resistance,10,6,2,2,Kalee
+2023-10-10 10:02:08,590,at-st,resistance,9,6,3,6,Eriadu
+2023-10-10 10:02:07,591,at-at,resistance,3,7,2,6,Ryloth
+2023-10-10 10:02:06,592,x-wing,empire,4,9,3,10,Skako
+2023-10-10 10:02:05,593,unknown,empire,8,6,10,9,Sullust
+2023-10-10 10:02:04,594,stormtrooper,resistance,1,8,4,1,Bestine IV
+2023-10-10 10:02:03,595,tie_fighter,empire,4,8,10,8,Skako
+2023-10-10 10:02:02,596,stormtrooper,empire,4,2,3,4,Concord Dawn
+2023-10-10 10:02:01,597,at-st,resistance,7,2,4,7,Quermia
+2023-10-10 10:02:00,598,tie_fighter,resistance,10,3,2,8,Stewjon
+2023-10-10 10:01:59,599,x-wing,resistance,1,8,6,2,Socorro
+2023-10-10 10:01:58,600,tie_silencer,empire,10,4,9,7,Rodia
+2023-10-10 10:01:57,601,resistance_soldier,empire,7,9,9,10,Quermia
+2023-10-10 10:01:56,602,x-wing,resistance,3,1,9,2,Stewjon
+2023-10-10 10:01:55,603,stormtrooper,empire,1,10,3,8,Dagobah
+2023-10-10 10:01:54,604,tie_fighter,resistance,5,8,8,10,Ryloth
+2023-10-10 10:01:53,605,at-st,empire,2,7,1,9,Serenno
+2023-10-10 10:01:52,606,resistance_soldier,resistance,1,1,10,6,Serenno
+2023-10-10 10:01:51,607,x-wing,empire,7,6,4,1,Malastare
+2023-10-10 10:01:50,608,stormtrooper,resistance,1,9,5,5,Tholoth
+2023-10-10 10:01:49,609,at-at,resistance,7,10,9,2,Malastare
+2023-10-10 10:01:48,610,x-wing,empire,6,1,4,4,Rodia
+2023-10-10 10:01:47,611,tie_fighter,empire,5,4,8,5,Tund
+2023-10-10 10:01:46,612,tie_silencer,resistance,6,6,10,7,Troiken
+2023-10-10 10:01:45,613,tie_silencer,resistance,4,10,6,3,Concord Dawn
+2023-10-10 10:01:44,614,at-st,empire,6,9,1,8,Dorin
+2023-10-10 10:01:43,615,stormtrooper,resistance,2,10,6,1,Tatooine
+2023-10-10 10:01:42,616,at-at,empire,6,4,3,2,Tatooine
+2023-10-10 10:01:41,617,tie_fighter,resistance,2,6,9,9,Chandrila
+2023-10-10 10:01:40,618,at-st,resistance,1,5,6,7,Vulpter
+2023-10-10 10:01:39,619,tie_fighter,resistance,9,5,7,1,Serenno
+2023-10-10 10:01:38,620,unknown,empire,3,5,8,2,Sullust
+2023-10-10 10:01:37,621,x-wing,empire,7,5,2,6,Tatooine
+2023-10-10 10:01:36,622,tie_fighter,resistance,8,10,1,10,Alderaan
+2023-10-10 10:01:35,623,at-at,resistance,5,6,1,4,Tatooine
+2023-10-10 10:01:34,624,x-wing,empire,10,9,7,5,Cerea
+2023-10-10 10:01:33,625,stormtrooper,resistance,2,1,8,6,Iktotch
+2023-10-10 10:01:32,626,stormtrooper,resistance,8,5,10,1,Cerea
+2023-10-10 10:01:31,627,x-wing,resistance,10,9,4,9,Stewjon
+2023-10-10 10:01:30,628,unknown,empire,4,1,10,7,Sullust
+2023-10-10 10:01:29,629,at-at,empire,2,1,10,4,Umbara
+2023-10-10 10:01:28,630,at-at,resistance,5,10,3,8,Umbara
+2023-10-10 10:01:27,631,at-at,resistance,10,7,5,10,Rodia
+2023-10-10 10:01:26,632,stormtrooper,resistance,10,1,3,9,Skako
+2023-10-10 10:01:25,633,at-st,empire,3,10,5,3,Shili
+2023-10-10 10:01:24,634,resistance_soldier,empire,5,6,8,5,Corellia
+2023-10-10 10:01:23,635,stormtrooper,resistance,8,2,1,1,Stewjon
+2023-10-10 10:01:22,636,at-at,empire,8,7,10,10,Aleen Minor
+2023-10-10 10:01:21,637,at-at,resistance,10,3,9,7,Trandosha
+2023-10-10 10:01:20,638,unknown,empire,7,2,3,5,Bestine IV
+2023-10-10 10:01:19,639,tie_fighter,resistance,10,1,8,9,Mon Cala
+2023-10-10 10:01:18,640,tie_silencer,empire,10,6,2,2,Aleen Minor
+2023-10-10 10:01:17,641,at-st,empire,4,5,1,6,Bestine IV
+2023-10-10 10:01:16,642,stormtrooper,empire,10,7,8,5,Tatooine
+2023-10-10 10:01:15,643,stormtrooper,resistance,2,9,7,4,Tund
+2023-10-10 10:01:14,644,resistance_soldier,resistance,8,8,6,1,Ryloth
+2023-10-10 10:01:13,645,tie_silencer,empire,1,9,1,6,Mirial
+2023-10-10 10:01:12,646,at-at,resistance,2,8,3,3,Ryloth
+2023-10-10 10:01:11,647,tie_fighter,resistance,5,3,1,1,Kalee
+2023-10-10 10:01:10,648,at-at,resistance,8,7,9,10,Chandrila
+2023-10-10 10:01:09,649,resistance_soldier,empire,4,7,7,5,Tund
+2023-10-10 10:01:08,650,x-wing,resistance,8,8,2,7,Kalee
+2023-10-10 10:01:07,651,stormtrooper,resistance,7,7,8,3,Concord Dawn
+2023-10-10 10:01:06,652,tie_fighter,empire,6,8,7,6,Kalee
+2023-10-10 10:01:05,653,stormtrooper,empire,10,1,7,2,Iridonia
+2023-10-10 10:01:04,654,at-st,empire,4,1,2,9,Champala
+2023-10-10 10:01:03,655,tie_silencer,empire,3,7,7,5,Vulpter
+2023-10-10 10:01:02,656,tie_fighter,empire,8,6,4,3,Mon Cala
+2023-10-10 10:01:01,657,at-at,empire,6,2,10,1,Serenno
+2023-10-10 10:01:00,658,resistance_soldier,resistance,10,8,7,6,Mon Cala
+2023-10-10 10:00:59,659,tie_fighter,resistance,10,4,3,7,Eriadu
+2023-10-10 10:00:58,660,at-st,empire,3,6,1,5,Mon Cala
+2023-10-10 10:00:57,661,unknown,empire,7,9,1,2,Champala
+2023-10-10 10:00:56,662,at-st,resistance,3,10,5,6,Skako
+2023-10-10 10:00:55,663,at-st,resistance,3,2,6,10,Umbara
+2023-10-10 10:00:54,664,tie_fighter,empire,7,8,3,7,Serenno
+2023-10-10 10:00:53,665,x-wing,empire,4,6,10,4,Kashyyyk
+2023-10-10 10:00:52,666,at-st,resistance,9,9,8,2,Champala
+2023-10-10 10:00:51,667,x-wing,resistance,8,10,6,5,Mon Cala
+2023-10-10 10:00:50,668,resistance_soldier,empire,4,9,5,9,Vulpter
+2023-10-10 10:00:49,669,resistance_soldier,resistance,2,10,7,6,Bestine IV
+2023-10-10 10:00:48,670,at-st,resistance,7,6,4,4,Iktotch
+2023-10-10 10:00:47,671,at-at,empire,5,8,7,10,Socorro
+2023-10-10 10:00:46,672,tie_fighter,empire,9,9,6,6,Socorro
+2023-10-10 10:00:45,673,resistance_soldier,empire,3,10,2,2,Corellia
+2023-10-10 10:00:44,674,tie_fighter,resistance,7,1,10,2,Ojom
+2023-10-10 10:00:43,675,at-at,resistance,6,2,7,10,Concord Dawn
+2023-10-10 10:00:42,676,resistance_soldier,empire,10,1,7,8,Eriadu
+2023-10-10 10:00:41,677,unknown,resistance,3,3,10,7,Serenno
+2023-10-10 10:00:40,678,tie_silencer,resistance,9,1,10,8,Dathomir
+2023-10-10 10:00:39,679,x-wing,empire,1,9,2,2,Corellia
+2023-10-10 10:00:38,680,at-st,resistance,7,10,4,3,Rodia
+2023-10-10 10:00:37,681,at-st,resistance,9,4,1,1,Champala
+2023-10-10 10:00:36,682,tie_silencer,empire,5,2,3,2,Sullust
+2023-10-10 10:00:35,683,tie_silencer,resistance,8,7,7,8,Serenno
+2023-10-10 10:00:34,684,x-wing,empire,10,4,7,8,Ryloth
+2023-10-10 10:00:33,685,stormtrooper,empire,4,9,2,10,Aleen Minor
+2023-10-10 10:00:32,686,at-at,empire,10,3,1,4,Zolan
+2023-10-10 10:00:31,687,resistance_soldier,empire,4,9,2,8,Kalee
+2023-10-10 10:00:30,688,unknown,resistance,3,3,6,1,Concord Dawn
+2023-10-10 10:00:29,689,stormtrooper,resistance,7,10,6,7,Toydaria
+2023-10-10 10:00:28,690,tie_fighter,resistance,4,1,3,7,Aleen Minor
+2023-10-10 10:00:27,691,tie_fighter,resistance,6,3,3,5,Alderaan
+2023-10-10 10:00:26,692,at-st,resistance,8,5,3,4,Concord Dawn
+2023-10-10 10:00:25,693,x-wing,resistance,5,5,2,10,Kashyyyk
+2023-10-10 10:00:24,694,unknown,resistance,4,2,4,1,Dorin
+2023-10-10 10:00:23,695,stormtrooper,resistance,7,1,7,4,Vulpter
+2023-10-10 10:00:22,696,resistance_soldier,resistance,9,7,8,1,Ojom
+2023-10-10 10:00:21,697,unknown,empire,10,3,5,1,Shili
+2023-10-10 10:00:20,698,resistance_soldier,empire,9,1,6,5,Champala
+2023-10-10 10:00:19,699,stormtrooper,empire,1,8,9,5,Shili
+2023-10-10 10:00:18,700,stormtrooper,empire,7,2,1,2,Aleen Minor
+2023-10-10 10:00:17,701,tie_silencer,resistance,3,4,1,3,Shili
+2023-10-10 10:00:16,702,x-wing,empire,4,6,9,5,Chandrila
+2023-10-10 10:00:15,703,unknown,resistance,7,7,4,4,Dagobah
+2023-10-10 10:00:14,704,at-at,resistance,1,7,3,1,Muunilinst
+2023-10-10 10:00:13,705,at-st,empire,6,7,6,7,Alderaan
+2023-10-10 10:00:12,706,at-st,resistance,8,2,4,2,Cerea
+2023-10-10 10:00:11,707,stormtrooper,empire,8,2,5,7,Haruun Kal
+2023-10-10 10:00:10,708,tie_silencer,empire,1,10,1,10,Toydaria
+2023-10-10 10:00:09,709,at-at,empire,2,9,4,4,Toydaria
+2023-10-10 10:00:08,710,resistance_soldier,empire,6,1,4,1,Aleen Minor
+2023-10-10 10:00:07,711,x-wing,resistance,10,2,3,6,Ryloth
+2023-10-10 10:00:06,712,stormtrooper,resistance,1,8,6,1,Umbara
+2023-10-10 10:00:05,713,stormtrooper,empire,4,4,6,6,Mirial
+2023-10-10 10:00:04,714,tie_silencer,resistance,10,7,2,2,Socorro
+2023-10-10 10:00:03,715,tie_silencer,resistance,5,8,5,3,Kashyyyk
+2023-10-10 10:00:02,716,at-at,resistance,1,5,7,5,Serenno
+2023-10-10 10:00:01,717,at-at,resistance,2,2,4,3,Skako
+2023-10-10 10:00:00,718,unknown,empire,4,5,5,8,Muunilinst
+2023-10-10 09:59:59,719,at-at,resistance,8,7,2,6,Concord Dawn
+2023-10-10 09:59:58,720,stormtrooper,empire,7,4,10,7,Vulpter
+2023-10-10 09:59:57,721,resistance_soldier,resistance,3,9,6,6,Kashyyyk
+2023-10-10 09:59:56,722,x-wing,empire,1,7,4,1,Troiken
+2023-10-10 09:59:55,723,tie_silencer,resistance,8,6,1,2,Haruun Kal
+2023-10-10 09:59:54,724,stormtrooper,empire,9,2,5,4,Kashyyyk
+2023-10-10 09:59:53,725,x-wing,resistance,5,6,5,10,Shili
+2023-10-10 09:59:52,726,tie_fighter,resistance,3,3,4,5,Vulpter
+2023-10-10 09:59:51,727,x-wing,empire,8,3,6,3,Zolan
+2023-10-10 09:59:50,728,x-wing,resistance,2,5,10,8,Zolan
+2023-10-10 09:59:49,729,at-st,empire,6,10,3,8,Chandrila
+2023-10-10 09:59:48,730,stormtrooper,resistance,4,10,6,3,Ryloth
+2023-10-10 09:59:47,731,unknown,empire,7,8,9,7,Tatooine
+2023-10-10 09:59:46,732,at-st,resistance,10,4,7,6,Iktotch
+2023-10-10 09:59:45,733,tie_fighter,empire,1,10,8,8,Dathomir
+2023-10-10 09:59:44,734,x-wing,resistance,6,1,10,3,Mon Cala
+2023-10-10 09:59:43,735,at-at,empire,4,10,1,3,Tatooine
+2023-10-10 09:59:42,736,at-st,resistance,4,7,6,7,Cerea
+2023-10-10 09:59:41,737,tie_fighter,resistance,5,8,1,7,Vulpter
+2023-10-10 09:59:40,738,at-st,resistance,6,3,4,1,Rodia
+2023-10-10 09:59:39,739,resistance_soldier,resistance,7,2,6,2,Sullust
+2023-10-10 09:59:38,740,at-at,empire,4,2,9,2,Skako
+2023-10-10 09:59:37,741,tie_silencer,empire,1,6,7,7,Ryloth
+2023-10-10 09:59:36,742,unknown,resistance,9,2,6,2,Bestine IV
+2023-10-10 09:59:35,743,at-at,resistance,10,2,3,4,Champala
+2023-10-10 09:59:34,744,resistance_soldier,resistance,7,9,5,8,Umbara
+2023-10-10 09:59:33,745,unknown,empire,6,8,5,10,Haruun Kal
+2023-10-10 09:59:32,746,resistance_soldier,empire,6,8,10,7,Chandrila
+2023-10-10 09:59:31,747,at-at,resistance,7,8,2,10,Kalee
+2023-10-10 09:59:30,748,at-at,empire,7,6,8,1,Alderaan
+2023-10-10 09:59:29,749,at-st,resistance,3,9,6,6,Serenno
+2023-10-10 09:59:28,750,stormtrooper,resistance,10,6,2,9,Champala
+2023-10-10 09:59:27,751,x-wing,empire,6,6,10,8,Trandosha
+2023-10-10 09:59:26,752,x-wing,empire,4,10,6,10,Kalee
+2023-10-10 09:59:25,753,stormtrooper,resistance,5,10,4,3,Eriadu
+2023-10-10 09:59:24,754,tie_fighter,resistance,7,3,2,4,Kashyyyk
+2023-10-10 09:59:23,755,at-st,resistance,8,10,5,1,Toydaria
+2023-10-10 09:59:22,756,stormtrooper,resistance,4,9,5,1,Alderaan
+2023-10-10 09:59:21,757,unknown,empire,6,5,6,6,Ryloth
+2023-10-10 09:59:20,758,x-wing,empire,7,10,3,9,Socorro
+2023-10-10 09:59:19,759,at-st,resistance,1,7,7,1,Naboo
+2023-10-10 09:59:18,760,stormtrooper,empire,9,1,8,6,Eriadu
+2023-10-10 09:59:17,761,tie_fighter,empire,7,6,2,5,Champala
+2023-10-10 09:59:16,762,at-st,empire,9,8,6,3,Iridonia
+2023-10-10 09:59:15,763,at-at,resistance,1,1,5,10,Haruun Kal
+2023-10-10 09:59:14,764,stormtrooper,resistance,1,7,2,4,Tholoth
+2023-10-10 09:59:13,765,tie_silencer,empire,8,3,10,9,Tatooine
+2023-10-10 09:59:12,766,tie_silencer,empire,1,4,6,2,Tund
+2023-10-10 09:59:11,767,tie_silencer,empire,6,7,7,9,Kalee
+2023-10-10 09:59:10,768,x-wing,empire,10,4,2,6,Kalee
+2023-10-10 09:59:09,769,resistance_soldier,empire,10,4,4,10,Rodia
+2023-10-10 09:59:08,770,resistance_soldier,resistance,6,3,3,5,Chandrila
+2023-10-10 09:59:07,771,tie_fighter,empire,1,4,2,8,Naboo
+2023-10-10 09:59:06,772,tie_silencer,empire,1,10,8,3,Toydaria
+2023-10-10 09:59:05,773,tie_fighter,empire,2,7,9,7,Rodia
+2023-10-10 09:59:04,774,x-wing,resistance,7,3,4,6,Champala
+2023-10-10 09:59:03,775,unknown,resistance,5,7,4,10,Trandosha
+2023-10-10 09:59:02,776,unknown,empire,2,9,4,10,Chandrila
+2023-10-10 09:59:01,777,tie_silencer,empire,9,7,4,6,Naboo
+2023-10-10 09:59:00,778,tie_silencer,resistance,1,5,7,7,Alderaan
+2023-10-10 09:58:59,779,at-at,resistance,2,4,1,2,Ojom
+2023-10-10 09:58:58,780,at-at,empire,8,9,2,3,Tholoth
+2023-10-10 09:58:57,781,tie_fighter,resistance,1,2,5,8,Stewjon
+2023-10-10 09:58:56,782,at-at,resistance,10,2,7,8,Mirial
+2023-10-10 09:58:55,783,stormtrooper,resistance,6,10,9,9,Kalee
+2023-10-10 09:58:54,784,tie_silencer,empire,8,1,5,6,Shili
+2023-10-10 09:58:53,785,stormtrooper,resistance,3,6,1,9,Corellia
+2023-10-10 09:58:52,786,tie_fighter,resistance,10,1,6,2,Iridonia
+2023-10-10 09:58:51,787,resistance_soldier,resistance,6,7,10,1,Zolan
+2023-10-10 09:58:50,788,x-wing,empire,10,7,8,8,Aleen Minor
+2023-10-10 09:58:49,789,tie_silencer,resistance,1,1,5,4,Eriadu
+2023-10-10 09:58:48,790,stormtrooper,empire,6,6,9,10,Trandosha
+2023-10-10 09:58:47,791,at-at,resistance,5,1,10,4,Ryloth
+2023-10-10 09:58:46,792,unknown,resistance,5,7,5,4,Eriadu
+2023-10-10 09:58:45,793,at-at,resistance,8,1,5,10,Ojom
+2023-10-10 09:58:44,794,x-wing,resistance,2,9,5,2,Skako
+2023-10-10 09:58:43,795,x-wing,resistance,2,5,7,10,Zolan
+2023-10-10 09:58:42,796,tie_silencer,empire,3,10,4,9,Socorro
+2023-10-10 09:58:41,797,stormtrooper,empire,1,2,1,10,Dagobah
+2023-10-10 09:58:40,798,resistance_soldier,empire,9,4,5,10,Naboo
+2023-10-10 09:58:39,799,tie_silencer,resistance,3,9,7,10,Mirial
+2023-10-10 09:58:38,800,at-at,resistance,9,6,3,3,Skako
+2023-10-10 09:58:37,801,x-wing,resistance,4,1,10,10,Naboo
+2023-10-10 09:58:36,802,resistance_soldier,resistance,9,2,9,6,Glee Anselm
+2023-10-10 09:58:35,803,resistance_soldier,empire,10,9,5,5,Eriadu
+2023-10-10 09:58:34,804,tie_silencer,empire,8,1,5,10,Tholoth
+2023-10-10 09:58:33,805,unknown,resistance,10,1,10,9,Toydaria
+2023-10-10 09:58:32,806,unknown,resistance,7,1,9,3,Vulpter
+2023-10-10 09:58:31,807,at-at,resistance,5,5,10,6,Eriadu
+2023-10-10 09:58:30,808,resistance_soldier,resistance,3,8,2,6,Dorin
+2023-10-10 09:58:29,809,tie_silencer,empire,6,6,6,10,Socorro
+2023-10-10 09:58:28,810,x-wing,empire,3,7,3,10,Tund
+2023-10-10 09:58:27,811,at-at,empire,5,5,8,10,Ryloth
+2023-10-10 09:58:26,812,at-at,resistance,2,8,4,5,Chandrila
+2023-10-10 09:58:25,813,x-wing,resistance,7,8,7,6,Malastare
+2023-10-10 09:58:24,814,at-at,resistance,9,9,9,4,Serenno
+2023-10-10 09:58:23,815,tie_fighter,empire,6,7,3,10,Naboo
+2023-10-10 09:58:22,816,tie_fighter,resistance,3,9,1,1,Toydaria
+2023-10-10 09:58:21,817,at-at,empire,1,9,2,9,Kashyyyk
+2023-10-10 09:58:20,818,stormtrooper,empire,6,9,2,8,Muunilinst
+2023-10-10 09:58:19,819,unknown,empire,5,10,7,6,Stewjon
+2023-10-10 09:58:18,820,x-wing,resistance,9,3,2,10,Umbara
+2023-10-10 09:58:17,821,stormtrooper,empire,9,2,6,8,Chandrila
+2023-10-10 09:58:16,822,unknown,empire,3,10,1,5,Aleen Minor
+2023-10-10 09:58:15,823,resistance_soldier,resistance,9,7,2,1,Umbara
+2023-10-10 09:58:14,824,x-wing,resistance,8,9,8,10,Kalee
+2023-10-10 09:58:13,825,stormtrooper,resistance,4,9,6,5,Malastare
+2023-10-10 09:58:12,826,at-at,resistance,4,9,1,3,Mirial
+2023-10-10 09:58:11,827,tie_silencer,resistance,1,5,10,3,Dathomir
+2023-10-10 09:58:10,828,unknown,resistance,7,10,10,6,Shili
+2023-10-10 09:58:09,829,tie_fighter,empire,2,3,10,1,Mirial
+2023-10-10 09:58:08,830,tie_fighter,empire,3,7,2,1,Toydaria
+2023-10-10 09:58:07,831,resistance_soldier,resistance,5,2,9,4,Aleen Minor
+2023-10-10 09:58:06,832,tie_fighter,empire,2,3,8,6,Kashyyyk
+2023-10-10 09:58:05,833,x-wing,resistance,3,10,9,2,Eriadu
+2023-10-10 09:58:04,834,tie_silencer,resistance,1,10,5,10,Concord Dawn
+2023-10-10 09:58:03,835,tie_fighter,empire,8,6,3,3,Haruun Kal
+2023-10-10 09:58:02,836,unknown,empire,1,5,4,3,Kalee
+2023-10-10 09:58:01,837,resistance_soldier,empire,2,10,1,8,Tatooine
+2023-10-10 09:58:00,838,x-wing,empire,6,6,9,2,Aleen Minor
+2023-10-10 09:57:59,839,at-at,resistance,1,1,7,1,Zolan
+2023-10-10 09:57:58,840,at-at,empire,1,1,9,5,Troiken
+2023-10-10 09:57:57,841,resistance_soldier,empire,7,10,6,7,Concord Dawn
+2023-10-10 09:57:56,842,tie_silencer,resistance,1,4,10,9,Tund
+2023-10-10 09:57:55,843,tie_fighter,empire,4,4,6,2,Cerea
+2023-10-10 09:57:54,844,x-wing,empire,1,3,6,4,Toydaria
+2023-10-10 09:57:53,845,at-st,empire,5,5,9,7,Shili
+2023-10-10 09:57:52,846,x-wing,resistance,6,7,7,3,Ojom
+2023-10-10 09:57:51,847,x-wing,empire,8,8,8,9,Concord Dawn
+2023-10-10 09:57:50,848,tie_silencer,resistance,4,10,1,2,Champala
+2023-10-10 09:57:49,849,tie_fighter,resistance,3,2,5,6,Corellia
+2023-10-10 09:57:48,850,resistance_soldier,resistance,5,2,1,4,Glee Anselm
+2023-10-10 09:57:47,851,x-wing,resistance,1,9,8,8,Mirial
+2023-10-10 09:57:46,852,tie_fighter,empire,7,8,3,5,Concord Dawn
+2023-10-10 09:57:45,853,resistance_soldier,resistance,10,4,7,3,Serenno
+2023-10-10 09:57:44,854,x-wing,empire,4,7,8,2,Toydaria
+2023-10-10 09:57:43,855,at-st,empire,4,7,3,5,Dorin
+2023-10-10 09:57:42,856,at-st,resistance,3,6,10,7,Mirial
+2023-10-10 09:57:41,857,tie_fighter,resistance,10,10,7,1,Iridonia
+2023-10-10 09:57:40,858,unknown,resistance,2,8,1,5,Kashyyyk
+2023-10-10 09:57:39,859,unknown,resistance,3,3,10,10,Sullust
+2023-10-10 09:57:38,860,tie_silencer,empire,7,2,7,7,Trandosha
+2023-10-10 09:57:37,861,tie_silencer,empire,2,2,9,1,Kashyyyk
+2023-10-10 09:57:36,862,tie_fighter,empire,5,8,4,5,Concord Dawn
+2023-10-10 09:57:35,863,tie_fighter,resistance,5,7,2,8,Tund
+2023-10-10 09:57:34,864,x-wing,empire,2,9,1,10,Alderaan
+2023-10-10 09:57:33,865,stormtrooper,resistance,4,1,9,8,Zolan
+2023-10-10 09:57:32,866,unknown,resistance,1,4,5,9,Dagobah
+2023-10-10 09:57:31,867,resistance_soldier,resistance,4,1,10,6,Champala
+2023-10-10 09:57:30,868,tie_silencer,empire,1,5,2,5,Iktotch
+2023-10-10 09:57:29,869,at-st,resistance,8,2,2,1,Aleen Minor
+2023-10-10 09:57:28,870,at-st,empire,4,1,1,10,Mon Cala
+2023-10-10 09:57:27,871,stormtrooper,empire,9,7,3,7,Corellia
+2023-10-10 09:57:26,872,tie_fighter,empire,5,5,8,8,Cerea
+2023-10-10 09:57:25,873,at-at,resistance,4,7,2,5,Socorro
+2023-10-10 09:57:24,874,stormtrooper,empire,4,5,5,7,Quermia
+2023-10-10 09:57:23,875,unknown,resistance,1,7,9,4,Kalee
+2023-10-10 09:57:22,876,resistance_soldier,resistance,2,10,1,2,Eriadu
+2023-10-10 09:57:21,877,resistance_soldier,empire,5,6,2,2,Trandosha
+2023-10-10 09:57:20,878,tie_fighter,empire,2,5,1,8,Sullust
+2023-10-10 09:57:19,879,resistance_soldier,resistance,3,9,8,6,Kalee
+2023-10-10 09:57:18,880,at-st,resistance,4,4,8,2,Chandrila
+2023-10-10 09:57:17,881,resistance_soldier,empire,9,6,7,4,Alderaan
+2023-10-10 09:57:16,882,unknown,resistance,3,10,4,10,Serenno
+2023-10-10 09:57:15,883,resistance_soldier,empire,7,6,10,4,Kalee
+2023-10-10 09:57:14,884,unknown,resistance,7,4,1,2,Tatooine
+2023-10-10 09:57:13,885,at-at,empire,9,6,4,4,Toydaria
+2023-10-10 09:57:12,886,at-at,resistance,9,8,6,6,Troiken
+2023-10-10 09:57:11,887,unknown,resistance,7,2,6,3,Trandosha
+2023-10-10 09:57:10,888,at-st,empire,3,9,2,6,Champala
+2023-10-10 09:57:09,889,tie_silencer,resistance,9,4,5,9,Haruun Kal
+2023-10-10 09:57:08,890,tie_fighter,resistance,2,10,1,5,Mirial
+2023-10-10 09:57:07,891,tie_silencer,empire,7,6,4,1,Vulpter
+2023-10-10 09:57:06,892,tie_silencer,resistance,6,2,9,8,Haruun Kal
+2023-10-10 09:57:05,893,x-wing,empire,4,6,2,9,Vulpter
+2023-10-10 09:57:04,894,tie_silencer,empire,2,6,6,2,Concord Dawn
+2023-10-10 09:57:03,895,resistance_soldier,resistance,9,2,3,8,Haruun Kal
+2023-10-10 09:57:02,896,at-at,empire,6,2,3,1,Vulpter
+2023-10-10 09:57:01,897,unknown,resistance,1,7,6,3,Concord Dawn
+2023-10-10 09:57:00,898,at-at,empire,7,10,5,1,Socorro
+2023-10-10 09:56:59,899,at-st,empire,8,9,4,3,Kashyyyk
+2023-10-10 09:56:58,900,at-st,empire,4,9,5,9,Haruun Kal
+2023-10-10 09:56:57,901,tie_silencer,resistance,8,4,7,1,Champala
+2023-10-10 09:56:56,902,at-at,resistance,9,7,9,3,Kalee
+2023-10-10 09:56:55,903,stormtrooper,resistance,6,5,4,9,Malastare
+2023-10-10 09:56:54,904,tie_fighter,resistance,7,6,6,4,Shili
+2023-10-10 09:56:53,905,tie_silencer,resistance,5,7,2,3,Alderaan
+2023-10-10 09:56:52,906,resistance_soldier,empire,4,4,1,10,Ojom
+2023-10-10 09:56:51,907,resistance_soldier,empire,8,8,9,8,Muunilinst
+2023-10-10 09:56:50,908,stormtrooper,empire,5,10,5,5,Trandosha
+2023-10-10 09:56:49,909,stormtrooper,resistance,2,8,8,8,Ryloth
+2023-10-10 09:56:48,910,unknown,resistance,3,6,5,7,Iridonia
+2023-10-10 09:56:47,911,x-wing,resistance,9,7,9,9,Concord Dawn
+2023-10-10 09:56:46,912,tie_fighter,resistance,9,4,10,7,Iridonia
+2023-10-10 09:56:45,913,resistance_soldier,empire,8,2,2,3,Kashyyyk
+2023-10-10 09:56:44,914,resistance_soldier,empire,6,10,10,6,Zolan
+2023-10-10 09:56:43,915,unknown,resistance,1,5,8,6,Iktotch
+2023-10-10 09:56:42,916,at-at,resistance,10,6,10,5,Cerea
+2023-10-10 09:56:41,917,resistance_soldier,empire,5,3,3,10,Tund
+2023-10-10 09:56:40,918,stormtrooper,empire,3,8,10,7,Vulpter
+2023-10-10 09:56:39,919,stormtrooper,empire,10,6,9,6,Bestine IV
+2023-10-10 09:56:38,920,tie_fighter,empire,5,9,2,9,Stewjon
+2023-10-10 09:56:37,921,stormtrooper,resistance,9,9,3,7,Dorin
+2023-10-10 09:56:36,922,unknown,resistance,8,7,5,3,Rodia
+2023-10-10 09:56:35,923,unknown,resistance,3,7,7,1,Concord Dawn
+2023-10-10 09:56:34,924,resistance_soldier,resistance,3,8,2,10,Concord Dawn
+2023-10-10 09:56:33,925,stormtrooper,empire,1,7,5,5,Malastare
+2023-10-10 09:56:32,926,at-at,empire,4,8,2,3,Toydaria
+2023-10-10 09:56:31,927,unknown,empire,1,7,1,9,Haruun Kal
+2023-10-10 09:56:30,928,resistance_soldier,resistance,2,1,9,8,Toydaria
+2023-10-10 09:56:29,929,stormtrooper,empire,1,7,9,6,Quermia
+2023-10-10 09:56:28,930,resistance_soldier,resistance,7,3,2,4,Trandosha
+2023-10-10 09:56:27,931,x-wing,empire,2,3,4,7,Mon Cala
+2023-10-10 09:56:26,932,resistance_soldier,empire,8,3,10,6,Skako
+2023-10-10 09:56:25,933,resistance_soldier,resistance,8,5,3,2,Troiken
+2023-10-10 09:56:24,934,stormtrooper,empire,9,10,8,2,Iktotch
+2023-10-10 09:56:23,935,at-at,empire,9,3,1,3,Iridonia
+2023-10-10 09:56:22,936,tie_fighter,empire,1,7,8,8,Tholoth
+2023-10-10 09:56:21,937,resistance_soldier,resistance,10,3,7,9,Muunilinst
+2023-10-10 09:56:20,938,tie_silencer,resistance,3,9,1,1,Champala
+2023-10-10 09:56:19,939,tie_fighter,empire,2,1,6,4,Malastare
+2023-10-10 09:56:18,940,at-at,empire,9,7,3,6,Aleen Minor
+2023-10-10 09:56:17,941,at-at,resistance,9,8,10,8,Aleen Minor
+2023-10-10 09:56:16,942,unknown,empire,4,7,1,3,Mirial
+2023-10-10 09:56:15,943,resistance_soldier,empire,7,10,7,7,Ojom
+2023-10-10 09:56:14,944,unknown,empire,5,4,7,2,Kashyyyk
+2023-10-10 09:56:13,945,unknown,resistance,3,9,6,1,Toydaria
+2023-10-10 09:56:12,946,tie_silencer,empire,7,9,9,2,Haruun Kal
+2023-10-10 09:56:11,947,tie_fighter,empire,3,9,2,4,Alderaan
+2023-10-10 09:56:10,948,tie_fighter,empire,7,4,6,7,Shili
+2023-10-10 09:56:09,949,stormtrooper,resistance,8,8,2,4,Quermia
+2023-10-10 09:56:08,950,resistance_soldier,empire,1,2,8,2,Ryloth
+2023-10-10 09:56:07,951,tie_silencer,empire,5,1,8,6,Socorro
+2023-10-10 09:56:06,952,x-wing,empire,4,10,2,5,Serenno
+2023-10-10 09:56:05,953,x-wing,resistance,5,8,3,1,Eriadu
+2023-10-10 09:56:04,954,unknown,empire,7,7,6,2,Dagobah
+2023-10-10 09:56:03,955,at-at,resistance,3,6,1,2,Iridonia
+2023-10-10 09:56:02,956,stormtrooper,empire,10,8,1,10,Serenno
+2023-10-10 09:56:01,957,unknown,resistance,4,6,7,6,Shili
+2023-10-10 09:56:00,958,resistance_soldier,empire,10,3,6,1,Socorro
+2023-10-10 09:55:59,959,at-at,empire,8,4,4,2,Tholoth
+2023-10-10 09:55:58,960,at-at,empire,9,3,6,2,Naboo
+2023-10-10 09:55:57,961,stormtrooper,resistance,9,6,1,6,Iridonia
+2023-10-10 09:55:56,962,at-at,resistance,5,10,3,3,Stewjon
+2023-10-10 09:55:55,963,at-st,resistance,2,3,1,10,Troiken
+2023-10-10 09:55:54,964,unknown,empire,7,5,4,10,Dathomir
+2023-10-10 09:55:53,965,unknown,empire,9,6,4,5,Sullust
+2023-10-10 09:55:52,966,at-at,empire,1,9,5,8,Stewjon
+2023-10-10 09:55:51,967,resistance_soldier,resistance,1,8,8,10,Ryloth
+2023-10-10 09:55:50,968,at-at,resistance,7,7,3,4,Tund
+2023-10-10 09:55:49,969,tie_fighter,empire,3,3,6,10,Aleen Minor
+2023-10-10 09:55:48,970,at-st,resistance,3,2,10,6,Iridonia
+2023-10-10 09:55:47,971,x-wing,empire,2,1,10,7,Kalee
+2023-10-10 09:55:46,972,resistance_soldier,empire,7,9,7,10,Iktotch
+2023-10-10 09:55:45,973,at-st,empire,2,3,6,8,Stewjon
+2023-10-10 09:55:44,974,tie_fighter,resistance,3,1,2,10,Tund
+2023-10-10 09:55:43,975,stormtrooper,resistance,7,8,4,5,Sullust
+2023-10-10 09:55:42,976,unknown,empire,9,7,1,2,Eriadu
+2023-10-10 09:55:41,977,stormtrooper,empire,4,8,5,9,Cerea
+2023-10-10 09:55:40,978,stormtrooper,resistance,9,1,2,5,Tund
+2023-10-10 09:55:39,979,at-at,resistance,6,5,4,1,Glee Anselm
+2023-10-10 09:55:38,980,tie_silencer,resistance,3,3,10,7,Naboo
+2023-10-10 09:55:37,981,stormtrooper,resistance,3,5,7,9,Eriadu
+2023-10-10 09:55:36,982,unknown,resistance,7,6,5,4,Serenno
+2023-10-10 09:55:35,983,unknown,empire,7,1,2,7,Dathomir
+2023-10-10 09:55:34,984,at-st,empire,3,6,2,1,Muunilinst
+2023-10-10 09:55:33,985,resistance_soldier,empire,2,2,4,4,Glee Anselm
+2023-10-10 09:55:32,986,tie_silencer,empire,8,7,6,5,Aleen Minor
+2023-10-10 09:55:31,987,unknown,empire,2,6,5,6,Concord Dawn
+2023-10-10 09:55:30,988,unknown,resistance,7,10,2,8,Tholoth
+2023-10-10 09:55:29,989,tie_fighter,resistance,5,5,2,8,Ojom
+2023-10-10 09:55:28,990,tie_silencer,resistance,8,9,2,5,Mirial
+2023-10-10 09:55:27,991,x-wing,resistance,1,1,10,6,Stewjon
+2023-10-10 09:55:26,992,tie_fighter,empire,6,2,3,6,Sullust
+2023-10-10 09:55:25,993,stormtrooper,resistance,5,5,4,4,Mon Cala
+2023-10-10 09:55:24,994,tie_fighter,empire,4,2,2,10,Eriadu
+2023-10-10 09:55:23,995,resistance_soldier,resistance,5,6,6,8,Malastare
+2023-10-10 09:55:22,996,at-st,empire,1,1,9,10,Muunilinst
+2023-10-10 09:55:21,997,tie_fighter,empire,5,4,7,3,Eriadu
+2023-10-10 09:55:20,998,tie_fighter,resistance,9,7,7,8,Tund
+2023-10-10 09:55:19,999,tie_fighter,empire,7,10,9,3,Corellia
+2023-10-10 09:55:18,1000,at-st,empire,4,4,2,9,Alderaan
